@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Textdit/static/css/main.39408b27.css",
+    "main.js": "/Textdit/static/js/main.f4c9fdff.js",
+    "index.html": "/Textdit/index.html",
+    "main.39408b27.css.map": "/Textdit/static/css/main.39408b27.css.map",
+    "main.f4c9fdff.js.map": "/Textdit/static/js/main.f4c9fdff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39408b27.css",
+    "static/js/main.f4c9fdff.js"
+  ]
+}

@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Questrial&display=swap");
+
+header {
+  font-family: "Questrial", sans-serif;
+}
+
+.title {
+  font-family: "Merriweather", serif;
+}
+
+.textarea,
+.edit {
+  font-family: "Questrial", sans-serif;
+}
+
+.text1 {
+  font-family: "Merriweather", serif;
+}
+
+.info,
+.dark {
+  font-family: "Questrial", sans-serif;
+}
+
+.im {
+  margin-top: -150px;
+}
